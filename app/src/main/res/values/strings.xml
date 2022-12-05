@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Practica2Fer</string>
+    <string name="stringtv">Índice de masa corporal (IMC)</string>
+    <string name="strPeso">Introduce tu peso</string>
+    <string name="tvpeso">Peso (kg)</string>
+    <string name="tvaltura">Altura (cm)</string>
+    <string name="edpeso">Introduce peso</string>
+    <string name="edaltura">Introduce altura</string>
+    <string name="rb1">Hombre</string>
+    <string name="rb2">Mujer</string>
+    <string name="botonstr">CALCULAR</string>
+    <string name="pesoinf">Peso inferior al normal</string>
+    <string name="pesonor">Normal</string>
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="obesidad">Obesidad</string>
+    <string name="txtToast">Los campos Peso y Altura no deben estar vacíos para realizar el calculo.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="estado">Estado</string>
+    <string name="genero">Género</string>
+    <string name="fecha">Fecha</string>
+    <string name="imc">Imc</string>
+    <string name="historico">Histórico</string>
+</resources>
